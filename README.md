@@ -1,4 +1,4 @@
-# trialapplication
+# Learning APP
 
 A new Flutter project.
 
